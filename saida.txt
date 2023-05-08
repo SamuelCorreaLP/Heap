@@ -1,0 +1,164 @@
+-- Heap ordenado em ordem crescente --
+
+i = 1
+
+Inicio comparação.
+i = 2
+
+Inicio comparação.
+i = 3
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 4
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 5
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 6
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 7
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 8
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 9
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 10
+
+
+-- Heap ordenado em ordem decrescente --
+
+i = 1
+
+Inicio comparação.
+i = 2
+
+Inicio comparação.
+i = 3
+
+Inicio comparação.
+Inicio comparação.
+i = 4
+
+Inicio comparação.
+Inicio comparação.
+i = 5
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 6
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 7
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 8
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 9
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 10
+
+
+-- Heap ordenado em ordem aleatória --
+
+i = 1
+
+Inicio comparação.
+i = 2
+
+Inicio comparação.
+i = 3
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 4
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 5
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 6
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 7
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 8
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 9
+
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+Inicio comparação.
+i = 10
